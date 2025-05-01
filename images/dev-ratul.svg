@@ -87,7 +87,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >techmart</text>
+      >dev-ratul-anjum</text>
     </g>
       </g>
     
@@ -100,18 +100,17 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">A MERN-Stack E-commerce Platform for Electronics and</tspan><tspan dy="1.2em" x="25">Gadgets</tspan>
+      <tspan dy="1.2em" x="25">Full Stack MERN Developer: Crafting Scalable Web</tspan><tspan dy="1.2em" x="25">Experiences</tspan>
     </text>
 
     <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f1e05a" />
-      <text data-testid="lang-name" class="gray" x="15">JavaScript</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#4D8FAC" />
+      <text data-testid="lang-name" class="gray" x="15">README</text>
     </g>
     </g>
     </g>
   
         </g>
       </svg>
-    
