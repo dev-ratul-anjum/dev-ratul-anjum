@@ -109,7 +109,7 @@
                 src="./images/github.svg">
         </a>
         <!-- Portfolio -->
-        <a href="https://ratulanjum.dev" target="_blank"><img alt="Portfolio"
+        <a href="https://ratulanjum.onrender.com" target="_blank"><img alt="Portfolio"
                 src="./images/portfolio.svg">
         </a>
     </p>
@@ -130,20 +130,20 @@
 
 <p align="center">
 <a href="https://github.com/dev-ratul-anjum/dev-ratul-anjum">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ratul-anjum&repo=dev-ratul-anjum&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center" src="./images/dev-ratul.svg" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/dev-ratul-anjum/panilagbe">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ratul-anjum&repo=panilagbe&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center" src="./images/panilagbe.svg" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/dev-ratul-anjum/techmart">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ratul-anjum&repo=techmart&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center" src="./images/techmart.svg" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/dev-ratul-anjum/portfolio">
-<img width='49%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ratul-anjum&repo=portfolio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<img width='49%' align="center" src="./images/portfolio-repo.svg" />
 </a>
 </p>
